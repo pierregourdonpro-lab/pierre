@@ -18,3 +18,5 @@
 - 2026-10-07 : Se décrit comme "le plus fainéant du monde". Déteste lire et écrire. Veut uniquement cliquer.
 - 2026-10-07 : Mémoire principale = ce CLAUDE.md (pas d'upgrade Notion). Notion Memory reste un bonus tant qu'il fonctionne.
 - 2026-10-07 : Pas de priorité choisie au 1er QCM → ne pas forcer, attendre sa demande.
+- 2026-10-07 : Projet prioritaire = offre high-ticket PG Protocol. Grille de référence : Drive "PG_Protocol_Grille_Tarifaire_2026-10-07.pdf" (Audit 1 000 € / Essentiel 2 500 € / Standard 5 000 €). Base contacts : Notion "PG Protocol — Espace clients / Clients".
+- 2026-10-07 : Pour la "Team", il veut uniquement la décision finale (pas le détail du débat).
