@@ -22,3 +22,5 @@
 - 2026-10-07 : Pour la "Team", il veut uniquement la décision finale (pas le détail du débat).
 - 2026-10-07 : Prix réellement vendus (source : Drive "PG_Protocol_Offer_Audit_EN.pdf") : Audit ≤ 997 € (plusieurs ventes), 16 sem. à 3 600-4 000 € (plusieurs), 6 000 € (1 vente), Continuité 2 997 € (3), Elite 12 000 € (1, client existant). Aucune vente depuis la baisse de septembre.
 - 2026-10-07 : A ignoré mes 3 options pour demander "meilleures offres et meilleurs prix" → il pense pricing/offre avant exécution. Proposer d'abord des options stratégiques.
+- 2026-10-07 : Grille V2 validée par Pierre (QCM) : Audit 1 000 € crédité 14 j / Essentiel 8 sem. 2 500 € / Standard 16 sem. 5 000 € (test 10 R2, sinon 4 000 €) / Continuité 2 997 € / Elite 12 000 € / 2 fois = +10 %. PDF généré avec le skill pg-protocol-docs.
+- 2026-10-07 : Notion "Clients" : dates de fin vides → impossible de savoir qui finit bientôt. À remplir pour automatiser les relances.
