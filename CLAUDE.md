@@ -16,3 +16,5 @@
 
 ## Apprentissages
 - 2026-10-07 : Se décrit comme "le plus fainéant du monde". Déteste lire et écrire. Veut uniquement cliquer.
+- 2026-10-07 : Mémoire principale = ce CLAUDE.md (pas d'upgrade Notion). Notion Memory reste un bonus tant qu'il fonctionne.
+- 2026-10-07 : Pas de priorité choisie au 1er QCM → ne pas forcer, attendre sa demande.
