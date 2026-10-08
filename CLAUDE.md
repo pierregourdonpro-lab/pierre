@@ -27,3 +27,4 @@
 - 2026-10-07 : Dates de départ/fin + offre remplies dans Notion "Clients" (28 fiches, source : contrats et récaps Drive). Laissés vides (confiance basse) : Lionel D, Gary, Azad Aygun, Matéo Mayayo, Philippe Rieth, Kevin Court.
 - 2026-10-08 : A demandé ce qu'est Claude Code en ligne / sur Telegram (type OpenClaw). Explication donnée façon "enfant de 12 ans". Il utilise déjà Claude Code cloud via l'app Claude.
 - 2026-10-08 : Choix QCM → rester sur l'app Claude (pas de Telegram/OpenClaw). Ne plus proposer Telegram sauf demande.
+- 2026-10-08 : Veut "tout comme OpenClaw". Créé : routine "Brief du matin Pierre" (trig_015hf1A3Qef5cbDwg2chKa2N), lun-ven 7h52 Paris, dans la session session_01Bw5Lrnu1C6vB82tYQ9Mc7r (agenda + mails à traiter + clients Notion qui finissent sous 14 j + 1 action cash). Lecture seule.
