@@ -25,3 +25,4 @@
 - 2026-10-07 : Grille V2 validée par Pierre (QCM) : Audit 1 000 € crédité 14 j / Essentiel 8 sem. 2 500 € / Standard 16 sem. 5 000 € (test 10 R2, sinon 4 000 €) / Continuité 2 997 € / Elite 12 000 € / 2 fois = +10 %. PDF généré avec le skill pg-protocol-docs.
 - 2026-10-07 : Notion "Clients" : dates de fin vides → impossible de savoir qui finit bientôt. À remplir pour automatiser les relances.
 - 2026-10-07 : Dates de départ/fin + offre remplies dans Notion "Clients" (28 fiches, source : contrats et récaps Drive). Laissés vides (confiance basse) : Lionel D, Gary, Azad Aygun, Matéo Mayayo, Philippe Rieth, Kevin Court.
+- 2026-10-08 : A demandé ce qu'est Claude Code en ligne / sur Telegram (type OpenClaw). Explication donnée façon "enfant de 12 ans". Il utilise déjà Claude Code cloud via l'app Claude.
