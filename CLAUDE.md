@@ -28,3 +28,4 @@
 - 2026-10-08 : A demandé ce qu'est Claude Code en ligne / sur Telegram (type OpenClaw). Explication donnée façon "enfant de 12 ans". Il utilise déjà Claude Code cloud via l'app Claude.
 - 2026-10-08 : Choix QCM → rester sur l'app Claude (pas de Telegram/OpenClaw). Ne plus proposer Telegram sauf demande.
 - 2026-10-08 : Veut "tout comme OpenClaw". Créé : routine "Brief du matin Pierre" (trig_015hf1A3Qef5cbDwg2chKa2N), lun-ven 7h52 Paris, dans la session session_01Bw5Lrnu1C6vB82tYQ9Mc7r (agenda + mails à traiter + clients Notion qui finissent sous 14 j + 1 action cash). Lecture seule.
+- 2026-10-08 : Change d'avis : veut finalement un OpenClaw sur VPS (comme la "smart money" sur Twitter). Reco : Hostinger 1-click OpenClaw (~7 $/mois, crédits IA + Telegram inclus). Plan B pas cher : Hetzner (à configurer soi-même). Je ne peux pas me connecter à un VPS depuis le cloud (SSH bloqué) → l'option 1-clic est obligatoire pour qu'il n'ait rien à installer.
