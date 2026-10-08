@@ -26,3 +26,4 @@
 - 2026-10-07 : Notion "Clients" : dates de fin vides → impossible de savoir qui finit bientôt. À remplir pour automatiser les relances.
 - 2026-10-07 : Dates de départ/fin + offre remplies dans Notion "Clients" (28 fiches, source : contrats et récaps Drive). Laissés vides (confiance basse) : Lionel D, Gary, Azad Aygun, Matéo Mayayo, Philippe Rieth, Kevin Court.
 - 2026-10-08 : A demandé ce qu'est Claude Code en ligne / sur Telegram (type OpenClaw). Explication donnée façon "enfant de 12 ans". Il utilise déjà Claude Code cloud via l'app Claude.
+- 2026-10-08 : Choix QCM → rester sur l'app Claude (pas de Telegram/OpenClaw). Ne plus proposer Telegram sauf demande.
