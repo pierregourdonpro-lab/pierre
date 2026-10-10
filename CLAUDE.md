@@ -95,3 +95,8 @@
   - Oberle : PAS silencieux (a répondu le 12/09 et le 29/09) ; report accepté, reprise semaine du 19/10 ; dit « pas de souci administratif » → dossier chez l'avocat à reconsidérer.
 - 2026-10-10 : Choix QCM : Arnaud → roadmap remise à zéro (démarrage à confirmer, statut Onboarding, date de fin vidée) ; Oberle → dossier avocat EN PAUSE jusqu'au contact de la semaine du 19/10 (brouillon mis à jour). A suivi mes 2 recommandations.
 - 2026-10-10 : Notion Plus PAS encore activé : la page d'Arnaud ne peut pas être modifiée (plus de blocs gratuits) → modification à relancer une fois Plus actif (reste aussi : invitations des 18 clients). Base Clients OK (Arnaud = Onboarding, dates vidées). Brouillon avocat Oberle mis à jour (pause).
+- 2026-10-10 : MODE ACCUMULATION : Pierre m'envoie la suite de l'export ChatGPT (et d'autres infos) au fil de l'eau. Je stocke et j'analyse, mais toutes les écritures Notion attendent qu'il dise « Plus activé ». FILE D'ATTENTE NOTION (à exécuter une fois Plus actif) :
+  1. Page d'Arnaud : roadmap remise à zéro (étapes sans dates, « Démarrage : à confirmer ensemble dès que ton bilan sanguin complet est reçu », Cette semaine = envoyer le bilan complet + caler l'onboarding), tout décoché, aucun détail médical.
+  2. Enrichir les pages clients avec les dossiers ChatGPT (sans prix, dose, note interne ni donnée médicale sensible).
+  3. Nouvelles fiches et modules PG Academy tirés des questions récurrentes.
+  4. Ensuite, Pierre invite les 18 clients (scratchpad/invitations_clients.md + colonne Email de la base Clients).
