@@ -94,3 +94,4 @@
   - Amine Ould = ANCIEN CLIENT (4 mois, 1 500 €, de 108 à 95 kg), d'accord pour un témoignage écrit jamais reçu.
   - Oberle : PAS silencieux (a répondu le 12/09 et le 29/09) ; report accepté, reprise semaine du 19/10 ; dit « pas de souci administratif » → dossier chez l'avocat à reconsidérer.
 - 2026-10-10 : Choix QCM : Arnaud → roadmap remise à zéro (démarrage à confirmer, statut Onboarding, date de fin vidée) ; Oberle → dossier avocat EN PAUSE jusqu'au contact de la semaine du 19/10 (brouillon mis à jour). A suivi mes 2 recommandations.
+- 2026-10-10 : Notion Plus PAS encore activé : la page d'Arnaud ne peut pas être modifiée (plus de blocs gratuits) → modification à relancer une fois Plus actif (reste aussi : invitations des 18 clients). Base Clients OK (Arnaud = Onboarding, dates vidées). Brouillon avocat Oberle mis à jour (pause).
