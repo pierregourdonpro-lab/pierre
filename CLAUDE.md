@@ -126,3 +126,4 @@
   - Julien Martin Del Rio : avenant signé le 17/08 (4 × 300 € à partir du 15/09) avec garantie de prolongation SANS LIMITE ; 1re échéance non confirmée ; plus de réponse depuis le 23/09.
   - Prospect Guillaume Beernaert (bypass, chômage, prothèse de genou) : plus tard.
   - SCHÉMA : conseils sur des médicaments sur ordonnance (anti-aromatase, hypolipémiants) + fournisseurs cités (Wolf SARMs, Limitless) + produits sans étiquette = exposition juridique majeure.
+- 2026-10-10 : Choix QCM juridique : CHARTE de conformité écrite (Pierre, Samy, coach) + brief à son avocat (brouillon Gmail sans destinataire) pour vérifier contrats et pratiques. Brouillon URGENT pour Frédéric Gomez prêt (scratchpad/messages_a_valider.md, lot 3).
