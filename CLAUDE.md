@@ -127,3 +127,4 @@
   - Prospect Guillaume Beernaert (bypass, chômage, prothèse de genou) : plus tard.
   - SCHÉMA : conseils sur des médicaments sur ordonnance (anti-aromatase, hypolipémiants) + fournisseurs cités (Wolf SARMs, Limitless) + produits sans étiquette = exposition juridique majeure.
 - 2026-10-10 : Choix QCM juridique : CHARTE de conformité écrite (Pierre, Samy, coach) + brief à son avocat (brouillon Gmail sans destinataire) pour vérifier contrats et pratiques. Brouillon URGENT pour Frédéric Gomez prêt (scratchpad/messages_a_valider.md, lot 3).
+- 2026-10-10 : Charte de conformité équipe V1 : https://docs.google.com/document/d/1hVHfUkE49LV-_7x7SVvJ746YxwWubs-FtHd6EFWZj58/edit ; brouillon Gmail « Demande de revue juridique — pratiques et contrats PG Protocol » (sans destinataire, 6 questions, lien vers la charte). À faire par Pierre : ajouter l'adresse de l'avocat, envoyer, puis faire signer la charte à Samy et au coach.
