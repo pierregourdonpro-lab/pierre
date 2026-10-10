@@ -79,3 +79,17 @@
 - 2026-10-09 : Mails des 18 clients trouvés (17 sûrs ; Arnaud probable : agoncalves.lb@gmail.com) + 18 messages WhatsApp de bienvenue dans scratchpad/invitations_clients.md. Ajout du champ Email dans la base Notion Clients en cours. Rayan = Rayan CHAILI (rayan.chaili@live.be), pas Catala. Amine Saidi = saidi.amine.lgm@gmail.com ; ouldhocine.amine@gmail.com = « Amine Ould », un PROSPECT → c'est bien une fuite sur les docs d'Oberle. Mitse = Nicolas MARTIN-ZONGO (mitse@icloud.com). Contrat de Michael Lemoine sans signature dans le Drive.
 - 2026-10-09 : À VENIR : Pierre va déposer dans le Drive l'export ChatGPT (mémoire + conversations de suivi client) et l'export de son CRM de setting Instagram (questions des leads). Objectif : enrichir les pages clients, créer de nouvelles fiches et modules PG Academy, et des idées de contenu à partir des vraies questions des leads. Attendre qu'il dise « c'est prêt ».
 - 2026-10-10 : Je ne peux pas me connecter à ChatGPT (aucun outil). Aucun mail d'export OpenAI dans le Gmail pro (son compte ChatGPT est peut-être sur une autre adresse). Choix QCM : COPIER-COLLER → il fait cracher à ChatGPT mémoires, fiches clients, top 30 questions et objections, puis colle le résultat ici ou dans un Google Doc « Export ChatGPT ».
+- 2026-10-10 : EXPORT CHATGPT, partie 1 reçue (mémoire + dossiers 2.1 à 2.10). Infos nouvelles :
+  - Équipe : Samy = closer (10 %), il fait les R1 et R2 ; Pierre prépare les offres. Setter test 5 %, coach assistant 15 %/client.
+  - Grille du 01/10 : Audit 1 000 € (1 200 € en plusieurs fois) / Essentiel 2 500 (3 000) / Standard 5 000 (6 000) / Elite 10 000 (12 000) / Continuité 2 997 € les 6 mois ou 597 €/mois. Garantie de résultat sur le Standard.
+  - Audience : YouTube 11 k (juillet 2026), vidéo longue le dimanche à 18h ; Instagram 4,5 k ; newsletter 6 642 ; Discord > 2 000. Affiliation ~5 k€/mois.
+  - Benj : 5 000 € (2 × 2 500 €, ou 4 500 € en une fois) avec garantie 95-98 kg ; paiement promis pour le ven. 9 ou le sam. 10/10, PAS confirmé.
+  - Bigot : virement déclaré le 08/10 → questionnaire à envoyer après réception.
+  - Prospect Brice Jeanjean : réponse attendue le SAMEDI 10/10 (3 mois 2 500 € ou 6 mois 5 000 €).
+  - Prospect Florian Villa : Audit 997 €, veut d'abord connaître le budget produits. Samy a promis « 7j/7 24h/24 », des dosages, des fournisseurs et des codes promo (risque).
+  - Lucas Pecheux (Audit) : verbatim de témoignage (« sortir de la boucle infernale »), sans prise de molécules.
+  - Kevin Court : acompte de 300 € reçu le 19/08, transition prévue en décembre, questionnaire envoyé le 20/09.
+  - ARNAUD : V1 jamais lancée (main opérée + infection, bilan partiel) alors que Notion met sa fin au 12/10 → incohérence.
+  - Reda : Standard 6 000 € = 3 × 2 000 € (prochain versement le 13/11, puis le 13/01).
+  - Amine Ould = ANCIEN CLIENT (4 mois, 1 500 €, de 108 à 95 kg), d'accord pour un témoignage écrit jamais reçu.
+  - Oberle : PAS silencieux (a répondu le 12/09 et le 29/09) ; report accepté, reprise semaine du 19/10 ; dit « pas de souci administratif » → dossier chez l'avocat à reconsidérer.
