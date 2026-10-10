@@ -100,3 +100,12 @@
   2. Enrichir les pages clients avec les dossiers ChatGPT (sans prix, dose, note interne ni donnée médicale sensible).
   3. Nouvelles fiches et modules PG Academy tirés des questions récurrentes.
   4. Ensuite, Pierre invite les 18 clients (scratchpad/invitations_clients.md + colonne Email de la base Clients).
+- 2026-10-10 : EXPORT CHATGPT, partie 2 (dossiers 2.11 à 2.16) :
+  - Alexandre Guy : Continuité signée le 28/09 avec un ENGAGEMENT ÉCRIT de « prolongation sans surcoût si 70 kg pas atteint » (risque) ; virement déclaré le 01/10, pas confirmé ; appel de lancement le 15/10 à 17h30.
+  - Alexandre BAYON = client actif (rétatrutide), absent des 18 pages Notion ; de 100 à 88,9 kg ; bilan à faire.
+  - Amine Saidi : Standard ramené à 3 600 € (remise de 10 %), protocole PAS commencé ; sa question sur le Proviron du 05/10 est SANS RÉPONSE. Un message destiné à un autre client lui a été envoyé par erreur.
+  - AZAD AYGUN = client ACTIF et coopératif (750 €/mois, mois 2 à 10, 3 mois offerts le 20/09, il PROPOSE lui-même le 03/10 de payer un mois) → le dossier chez l'avocat est incohérent. Prise de sang à refaire. Absent des pages Notion.
+  - Edgar : d'accord pour une INTERVIEW (07/10) et pour l'usage de ses photos → témoignage YouTube ; sa question sur le GHK-Cu (05/10) est SANS RÉPONSE ; cycle Test + Primo prévu ; Hyrox de 1h15 à 1h09.
+  - Hugo Sv : 8 semaines depuis le 03/08 (1 250 € pour la 1re tranche), phase 2 pas commencée (produits non reçus) ; absent de Notion.
+  - Récurrent : erreurs dans les comptes rendus (GGT lue 120 au lieu de 12 chez Edgar, chronologie de la testostérone de Bayon, format des flacons, collation du soir de Hugo) → besoin d'une checklist de relecture avant envoi.
+  - Questions récurrentes (pour fiches/modules) : reconstitution et graduations, conservation et transport, bleus aux injections, prise oubliée, étiquettes décollées ou flacons non identifiés, quand faire la prise de sang, variations de poids d'un jour à l'autre, peur des injections, coût total des produits.
